@@ -37,7 +37,7 @@ ThreadAppClone is a Swift-based application that leverages Firebase for backend 
 - **Firebase Integration**: Utilizes Firebase for authentication, database, and storage.
 - **Kingfisher**: Efficiently loads images from the web.
 - **Threading**: Ensures smooth and responsive data uploads.
-- **Cache**: Same image need note to download again and again due to the cache feature of Kingfisher package
+- **Cache**: Same image need not to download again and again due to the cache feature of Kingfisher package
 
 ## Contributing
 
